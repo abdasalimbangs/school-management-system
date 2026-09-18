@@ -1,0 +1,22 @@
+# Environnement virtuel
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Base de données
+db.sqlite3
+
+# Médias utilisateurs
+media/
+
+# Fichiers IDE
+.vscode/
+.idea/
+
+# Variables d'environnement
+.env
+
+# Logs
+*.log
